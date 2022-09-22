@@ -190,7 +190,7 @@ io.on('connection', socket =>{
 
 app.get('/test',(req,res)=>{
 
-    res.send('Tic tac toe backend working again edit');
+    res.send('Tic tac toe backend working');
 
 })
 
